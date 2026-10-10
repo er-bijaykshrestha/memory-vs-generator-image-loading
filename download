@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded dataset
+images_dataSAT/
+*.tar
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
