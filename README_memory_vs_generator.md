@@ -179,8 +179,8 @@ Use **Kernel > Restart & Run All**. The dataset is extracted to `images_dataSAT/
 
 ## Acknowledgements
 
-- Completed as part of the IBM AI Engineering course (IBM Skills Network).
-- The lab structure, instructions and dataset come from the IBM Skills Network lab, and the instructional text is © IBM Corporation.
+- Built while studying the IBM AI Engineering course (IBM Skills Network). The dataset and the original lab structure are from that course and are © IBM Corporation.
+- **My contribution:** I implemented and ran the loading experiments, answered the lab's questions, built the sorted path lists for both classes, wrote the generator-based loading example, and documented the findings and limitations.
 
 ## License
 
